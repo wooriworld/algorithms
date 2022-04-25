@@ -3,6 +3,8 @@ package codingtest;
 import java.util.ArrayList;
 import java.util.List;
 
+//https://programmers.co.kr/learn/courses/30/lessons/64061?language=java
+
 public class CraneClawMachineGame {
     public static void main(String[] args) {
         int[][] board = {
